@@ -8,6 +8,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=MaheshK006&style=for-the-badge&color=6C3FC5&label=VISITORS+DETECTED" />
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mahesh-khadse-875172237">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@RaveX_Wallpapers">
+<img src="https://img.shields.io/badge/YouTube-RaveX__Wallpapers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
@@ -23,6 +32,7 @@
 | 📍 **Spawn Point** | Maharashtra, India |
 | 🎯 **Main Quest** | Find the way in before someone else does |
 | 🎬 **Side Project** | Running [RaveX_Wallpapers](https://www.youtube.com/@RaveX_Wallpapers) |
+| 🔗 **Network** | [Connect on LinkedIn](https://www.linkedin.com/in/mahesh-khadse-875172237) |
 
 </div>
 
