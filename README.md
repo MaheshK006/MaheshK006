@@ -67,15 +67,17 @@
 
 <div align="center">
 
-<a href="https://github.com/MaheshK006/Real-Time-Dynamic-Linux-System-Call-Tracer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaheshK006&repo=Real-Time-Dynamic-Linux-System-Call-Tracer&theme=radical&hide_border=true&bg_color=0d0221&title_color=D9B3FF&text_color=c9d1d9&icon_color=FF61D8"/>
-</a>
-<a href="https://github.com/MaheshK006/RaveX_Live-Wallpaper-Loop-Maker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaheshK006&repo=RaveX_Live-Wallpaper-Loop-Maker&theme=radical&hide_border=true&bg_color=0d0221&title_color=D9B3FF&text_color=c9d1d9&icon_color=FF61D8"/>
-</a>
-<a href="https://github.com/MaheshK006/Sentiment-Analysis-of-Movie-Reviews-and-Recommendations-System1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaheshK006&repo=Sentiment-Analysis-of-Movie-Reviews-and-Recommendations-System1&theme=radical&hide_border=true&bg_color=0d0221&title_color=D9B3FF&text_color=c9d1d9&icon_color=FF61D8"/>
-</a>
+**⚔️ Real-Time Linux System Call Tracer**
+Watches every syscall a process makes — real time, no blind spots.
+[View repo →](https://github.com/MaheshK006/Real-Time-Dynamic-Linux-System-Call-Tracer)
+
+**⚔️ RaveX Live Wallpaper Loop Maker**
+Turns any clip into a seamless multi-hour looping wallpaper.
+[View repo →](https://github.com/MaheshK006/RaveX_Live-Wallpaper-Loop-Maker)
+
+**⚔️ Sentiment Analysis & Recommendation System**
+ML/NLP engine that reads movie reviews and predicts sentiment.
+[View repo →](https://github.com/MaheshK006/Sentiment-Analysis-of-Movie-Reviews-and-Recommendations-System1)
 
 </div>
 
@@ -87,17 +89,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaheshK006&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=D9B3FF&text_color=c9d1d9&icon_color=FF61D8" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshK006&theme=radical&hide_border=true&background=0d0221&ring=D9B3FF&fire=FF61D8&currStreakLabel=D9B3FF" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshK006&theme=react-dark&bg_color=0d0221&color=D9B3FF&line=FF61D8&point=ffffff&hide_border=true" width="90%"/>
-
-</div>
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MaheshK006&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
 </div>
 
 ## 🐍 THE GRIND (contribution snake)
@@ -105,7 +98,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaheshK006/MaheshK006/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>(one-time setup below turns this into a live animated snake that eats your actual contribution graph)</sub>
+<sub>(needs the one-time GitHub Action setup — see below)</sub>
 </div>
 
 <br/>
