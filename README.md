@@ -21,9 +21,19 @@
 
 <br/>
 
-## 🧾 CHARACTER SHEET
+## 🎮 PLAYER HUD
 
-<div align="center">
+<table>
+<tr>
+<td width="320" align="center" valign="top">
+
+<!-- SIDE CHARACTER SLOT — swap assets/side-character.png for your own art/gif anytime -->
+<img src="assets/side-character.png" width="300"/>
+
+</td>
+<td valign="top">
+
+### 🧾 CHARACTER SHEET
 
 | STAT | VALUE |
 |---|---|
@@ -31,18 +41,21 @@
 | 🏫 **Trained At** | C-DAC Hyderabad — Advanced Security System Design |
 | 📍 **Spawn Point** | Maharashtra, India |
 | 🎯 **Main Quest** | Find the way in before someone else does |
-| 🎬 **Side Project** | Running [RaveX_Wallpapers](https://www.youtube.com/@RaveX_Wallpapers) |
 | 🔗 **Network** | [Connect on LinkedIn](https://www.linkedin.com/in/mahesh-khadse-875172237) |
-
-</div>
-
-<div align="center">
+| 🎬 **Side Project** | Running [RaveX_Wallpapers](https://www.youtube.com/@RaveX_Wallpapers) |
 
 `RECON` ████████████████████░░ 90%
 `EXPLOITATION` ███████████████░░░░░░ 70%
 `AUTOMATION` █████████████████░░░░ 80%
 `CREATIVITY` ████████████████████░ 95%
 
+</td>
+</tr>
+</table>
+
+<!-- START-UP SCREEN SLOT — swap assets/start-box.gif for your own banner/gif anytime -->
+<div align="center">
+<img src="assets/start-box.gif" width="460"/>
 </div>
 
 <br/>
@@ -95,6 +108,21 @@ ML/NLP engine that reads movie reviews and predicts sentiment.
 
 <br/>
 
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+| STATUS | ACHIEVEMENT |
+|:---:|---|
+| 🔓 | **Certified Operative** — Completed Advanced Security System Design, C-DAC Hyderabad |
+| 🔓 | **System Whisperer** — Built a real-time Linux syscall tracer from scratch |
+| 🔓 | **Loop Master** — Automated 3-hour seamless video loops for YouTube |
+| 🔓 | **Data Reader** — Built an ML sentiment analysis & recommendation engine |
+| 🔒 | **??? — locked, keep pushing commits to find out** |
+| 🔒 | **??? — locked, keep pushing commits to find out** |
+
+</div>
+
 ## 📊 PLAYER STATS
 
 <div align="center">
@@ -108,7 +136,7 @@ ML/NLP engine that reads movie reviews and predicts sentiment.
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaheshK006/MaheshK006/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>(needs the one-time GitHub Action setup — see below)</sub>
+<sub>(needs the one-time GitHub Action setup)</sub>
 </div>
 
 <br/>
