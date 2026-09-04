@@ -153,38 +153,7 @@ ML/NLP engine that reads movie reviews and predicts sentiment.
 
 <div align="center">
 ```
-the person that made that anime character surrounded by "japanese" characaters, you used traditional chinese
-
-anyways, here is the translation of that image! 
-
-The dust is on the ground, and the dust is on the ground.
-I'm not the only one who has a boyfriend. I'm not the only one who has a boyfriend.
-I'm not sure what this is.
-The full moon is full of clouds and the boat is full of clouds.
-"I am so happy that I have been here for so long. I have been here for so long. I have been here for so long. I have been here for so long.
-I am a very good person.
-The 10 best free dating sites in 2020 are: 10:10; ...
-The 1980s and 1990s were a period of rapid development, and the 1990s and 1990s were the most important periods of the 1980s.
-I'm not the only one who has the ability to control the world. I'm not the only one who has the ability to control the world.
-I wrote the factory path and satin f bonfire screen I woven dream'´　　　 　 　 　 　 　 `Guard the gorge f path and f also 尓㍍i:i:i;;:;:: : : .
-The shop is full of people, and the people are very beautiful. I am very beautiful. I am very beautiful.
-I am very happy with this, but I am also very happy with this.
-I'm not the one who has to live in a boat. I'm not the one who has to live in a boat. I'm not the one who has to live in a boat.
-"I'm so happy. I'm so happy. I'm so happy.
-I am a very busy person.
-I am a very good person, I am very happy with my performance.
-I'm so happy, I'm so happy.
-I love the silk and silk.
-I am a man who has a lot of things to do. I am a man who has a lot of things to do.
-I am a very smart person, but I have never been so smart before.
-1. The 100 most common words in English: 1. The 100 most common words in English: 1. The 100 most common words in Chinese
-I'm not the only one who has a lot of experience in this field.
-The 1980s and 1990s were a period of rapid development, and the 1990s and 1990s were the most prosperous periods of the 1980s.
-￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
-
-Original image:
-
- ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 鑓塵幗膂蓿f寥寢膃暠瘉甅甃槊槎f碣綮瘋聟碯颱亦尓㍍i:i:i;;:;:: : :
 澣幗嶌塹傴嫩榛畝皋i袍耘蚌紕欒儼巓襴踟篁f罵f亦尓㍍i:i:i;;:;:: : :
 漲蔭甃縟諛f麭窶膩I嶮薤篝爰曷樔黎㌢´　　｀ⅷ踟亦尓㍍i:i:i;;:;:: : :
